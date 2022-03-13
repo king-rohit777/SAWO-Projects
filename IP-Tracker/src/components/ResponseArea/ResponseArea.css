@@ -30,7 +30,7 @@
 }
 
 .responseContainer .service-box:nth-child(odd) {
-  padding: 0 1.5rem;
+  padding: 0 1rem;
 }
 
 .responseContainer .service-box .service-title {
@@ -65,7 +65,7 @@
 @media (max-width: 768px) {
   .responseContainer {
     max-width: 60%;
-    min-height: 35%;
+    min-height: 30%;
     flex-direction: column;
     top: 20%;
   }
@@ -87,6 +87,7 @@
   .responseContainer .service-box {
     align-items: center;
     margin-right: 0 !important;
+    color: rebeccapurple;
   }
   .responseContainer .service-box .service-value {
     text-align: center;
