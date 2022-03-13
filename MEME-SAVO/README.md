@@ -5,7 +5,7 @@
 
 ### Links
 
-- Live Site URL: [Netlify](memegeny.netlify.app)
+- Live Site URL: [Netlify](https://memegeny.netlify.app)
 
 ### APIs USED
 
