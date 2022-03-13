@@ -15,7 +15,7 @@ function App() {
     const config = {
       containerID: 'sawo-container',
       identifierType: "email",
-      apiKey: "bf306610-45f8-473a-860f-829f109ea736", //localhost
+      apiKey: "dd493e60-ee24-4025-946f-317dc18a853e", //localhost
       onSuccess: onSuccessLogin
     };
 
