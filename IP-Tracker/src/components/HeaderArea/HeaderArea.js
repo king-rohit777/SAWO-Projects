@@ -55,13 +55,13 @@ export const HeaderArea = () => {
       >
         <img src={LogoutIcon} alt="icon" />
       </button>
-      <div className="header-text">IP Address Tracker</div>
+      <div className="header-text">Phone IP Locator</div>
       <div className={`input-button-container flex-center ${!userInfo.verification_token ? 'input-hidden' : ''}`}>
         <input
           value={input}
           onChange={(e) => setInput(e.target.value)}
           type="text"
-          placeholder="Search for any IP address or domain"
+          placeholder="Have your IP? Enter it here"
         />
         <button disabled={isLoading} onClick={handlePressButton} className="icon-button">
           {isLoading ? <div className="loader">Loading...</div> : <img className="icon" src={ArrowIcon} alt="icon" />}
