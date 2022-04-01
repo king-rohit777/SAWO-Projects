@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/JeevantheDev/IP-Tracker)
-- Live Site URL: [Netlify](https://ip-tracker-prod.netlify.app/)
+
+<!-- - Live Site URL: [Netlify]() -->
 
 ### APIs USED
 
