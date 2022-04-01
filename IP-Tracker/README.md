@@ -7,7 +7,7 @@
 ### Links
 
 
-<!-- - Live Site URL: [Netlify]() -->
+- Live Site URL: [Netlify]()
 
 ### APIs USED
 
@@ -62,6 +62,7 @@ REACT_APP_SAWO_API_KEY=***your prod-project sawo api***
     npm run build or yarn build
 ```
 
-### Hosting
+<!-- ### Hosting
 
 - Cloudflare
+ -->
